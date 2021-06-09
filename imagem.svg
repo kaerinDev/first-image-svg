@@ -4,7 +4,7 @@
   xmlns="http://www.w3.org/2000/svg"
   width="300" height="300">
   <circle cx="100" cy="100" r="40"  fill="#990098"
-  path=" 111" stroke="#990098" stroke-width="5"/>
+  path=" 111" stroke="#990098" stroke-width="6"/>
   <text x="58" y="105" fill="white">Hello World!</text>
 </svg>
 
